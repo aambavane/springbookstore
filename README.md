@@ -17,3 +17,9 @@ The MySQL commands can be found under --> MySQLCommands
 
 Test data for Book and Order can we loaded by uncommenting the command line runner methods in BookStoreApplication. This will load the data from the json files
 
+TODO: 
+1- Junits are not 100% done
+2- Need to add more documentation and comments in code 
+3- Custom exceptions to be added
+4- More logging to be added 
+
