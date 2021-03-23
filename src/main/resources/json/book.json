@@ -1,0 +1,22 @@
+[
+	{"isbn":"9780672324536",
+	"authorName":"Robert Lafore",
+	"price":22.0,
+	"numOfCopies":3598,
+	"bookName":"Data Structures &  Algorithms"},
+	{"isbn":"9780763757564",
+	"authorName":"William McAllister",
+	"price":25.0,
+	"numOfCopies":950,
+	"bookName":"Data Structures and Algorithms using Java"},
+	{"isbn":"9781118771334",
+	"authorName":"Michael GoodRich",
+	"price":25.0,
+	"numOfCopies":950,
+	"bookName":"Data Structures and Algorithms in Java"},
+	{"isbn":"9788120340077",
+	"authorName":"Daniel Spielman",
+	"price":20.0,
+	"numOfCopies":1900,
+	"bookName":"Introduction to Algorithms"}
+]

@@ -1,0 +1,11 @@
+{
+    "amount": 220.0,
+    "customer_name" : "Bob",
+    "booksBought" : [{
+        "isbn": "9780672324536",
+        "authorName": "Robert Lafore",
+        "price": 22.0,
+        "numOfCopies": 10,
+        "bookName": "Data Structures &  Algorithms"
+    }]
+    }
